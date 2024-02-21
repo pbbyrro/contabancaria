@@ -94,5 +94,6 @@ public class Conta {
 		System.out.println("Tipo da conta: " + tipoConta);
 		System.out.println("Titular da conta: " + this.titular);
 		System.out.println("Saldo da conta: " + this.saldo);
+		System.out.println(" ");
 	}
 }
